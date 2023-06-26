@@ -1,0 +1,4 @@
+hf-hub-ctranslate2>=2.0.8
+ctranslate2>=3.16.0
+torch
+torchvision
